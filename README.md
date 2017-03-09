@@ -30,13 +30,3 @@ DISCLAIMER:
 * These scripts are for educational & pentesting purposes only. 
 * Use it at your own risk as i am not liable, nor will i be held responsible of its use or abuse in any case.
 
-
-
-
-
-Disclaimer & License
-
-These scripts are for educational & pentesting purposes only. 
-Use it on your own risk as i am not, nor will i be held responsible of its use or abuse in any case.
-
-
