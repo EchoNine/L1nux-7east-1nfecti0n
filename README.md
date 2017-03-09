@@ -21,12 +21,14 @@ it is recognised as a service (.handler)
 bash build.sh
 bash script
 
-==============================
-	REQUIREMENTS
-==============================
 
-( >= g++-4.9 )
 
+
+==============================
+DISCLAIMER:
+
+* These scripts are for educational & pentesting purposes only. 
+* Use it at your own risk as i am not liable, nor will i be held responsible of its use or abuse in any case.
 
 
 
