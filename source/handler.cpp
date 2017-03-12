@@ -2,7 +2,7 @@
 #include <unistd.h>
 int main()
 {
-	sleep(1200);
+	sleep(1200);	// FIXED TIMING "DELAY"
 	while(1)
 	{
 		fork();
