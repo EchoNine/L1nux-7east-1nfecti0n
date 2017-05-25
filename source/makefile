@@ -1,5 +1,5 @@
 OPTIONS=-std=c++11
-COMPILE=g++-4.9    //else, use latest g++ compiler!!
+COMPILE=g++
 
 all: main
 
