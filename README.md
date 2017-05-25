@@ -6,7 +6,7 @@
 
 ==============================
 	DESCRIPTION
-==============================
+
 
 this is a fork bomb
 it runs as .handler
@@ -16,7 +16,7 @@ it is recognised as a service (.handler)
 
 ==============================
 	BASIC SETUP
-==============================
+
 
 bash build.sh
 bash script
