@@ -4,8 +4,8 @@
 
 
 
-==============================
-	DESCRIPTION
+
+DESCRIPTION:
 
 
 this is a fork bomb
@@ -14,8 +14,8 @@ it gets automatically added to rc.d
 it crashes computer after 20 mins
 it is recognised as a service (.handler)
 
-==============================
-	BASIC SETUP
+
+BASIC SETUP:
 
 
 bash build.sh
@@ -24,7 +24,7 @@ bash script
 
 
 
-==============================
+
 DISCLAIMER:
 
 * These scripts are for educational & pentesting purposes only. 
